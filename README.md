@@ -15,7 +15,7 @@
 
 ```bash
 # 安装 CLI
-pip install -g @larksuite/cli
+pip install cli-anything-promap-property
 
 # 安装 CLI SKILL（必需）
 npx skills add XiePF/propertyCli -y -g
